@@ -1,2 +1,3 @@
-# login-authentication-web-app
-Login and signup web application using HTML CSS and JavaScript with form validation.
+index.html
+style.css
+script.js
